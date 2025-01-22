@@ -1,0 +1,3 @@
+[submodule "anchor-vault"]
+	path = anchor-vault
+	url = https://github.com/ChiefAnthony/anchor-vault.git
