@@ -4,3 +4,6 @@
 [submodule "solana-escrow"]
 	path = solana-escrow
 	url = https://github.com/ChiefAnthony/solana-escrow.git
+[submodule "nft-staking"]
+	path = nft-staking
+	url = https://github.com/ChiefAnthony/nft-staking.git
