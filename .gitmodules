@@ -10,3 +10,6 @@
 [submodule "dice_game"]
 	path = dice_game
 	url = https://github.com/ChiefAnthony/dice_game.git
+[submodule "anchor-marketplace"]
+	path = anchor-marketplace
+	url = https://github.com/ChiefAnthony/anchor-marketplace.git
